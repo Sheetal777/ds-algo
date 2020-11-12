@@ -19,8 +19,7 @@ int i = 1;
         int i = 10;
         y = i++; // (Post increment)
         /* In this case, the initial value of 'i' is 10. The variable y is then assigned the value of 'i' i.e. 10 and the increases the value of 10. The final values of 'i' and 'y' would be 11 and 10 respectively. */
-    
-        ----------------------------------------------------------------------------------------
+ 
         int i = 10;
         y = ++i; // (Pre Increment)
         /* The initial value of 'i' is 10.  The value of 'i' is first incremented and then assigned to the variable y. The final values of 'i' and 'y' would be 11 and 11 respectively. */
