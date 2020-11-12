@@ -1,0 +1,1 @@
+### In for loops, initiation, verification and increment are all done in the same statement. The order in which these operations takes places are: 1. Initiation -> 2. Evaluation -> 3. Execution -> 4. Increment ->234.. The block of statements are executed only till the condition holds true.
