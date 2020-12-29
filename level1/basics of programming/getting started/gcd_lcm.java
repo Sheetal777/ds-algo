@@ -6,7 +6,9 @@ public class Main {
         Scanner scn = new Scanner(System.in);
         int n1 = scn.nextInt();
         int n2 = scn.nextInt();
-
+        
+        // store original numbers for fiding lcm
+        
         int on1 = n1;
         int on2 = n2;
         
