@@ -1,6 +1,6 @@
 # ds-algo
 
-This Repo will have ds-algo questions practice in Java language predominantly. (C++ maybe)
+This Repo will have ds-algo questions practice in Java language predominantly.
 - Level 1: Beginner (285 questions) (6 questions/Day)
 - Level 2: Intermediate (201 questions) (3 questions/Day)
 - Level 3: Advanced (1 question)
